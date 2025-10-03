@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I’m Jordan Elias Lancaster 👋
 
-<!--
-**JordanEliasLancaster/JordanEliasLancaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔐 Studying **CompTIA Security+ (SY0-701)**
+- 🛡️ Building hands-on skills via **TryHackMe SOC Level 1 Path**
+- 💻 Background: **IT Support / Helpdesk**
+- 📚 Documenting my journey into Cybersecurity
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Security+ Notes
+- TryHackMe Lab Write-ups
+- Wireshark / Nmap practice
+- Azure Sentinel log analysis
